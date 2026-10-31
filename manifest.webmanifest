@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "SMART OPR GENERATOR - SEKOLAH KEBANGSAAN PARIT MERKOM",
+  "short_name": "OPR SK Parit Merkom",
+  "description": "Sistem Jana OPR dan Kalendar Program SEKOLAH KEBANGSAAN PARIT MERKOM",
+  "lang": "ms-MY",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0a3651",
+  "icons": [
+    {
+      "src": "https://iili.io/nUnqzG4.md.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
